@@ -11,7 +11,7 @@ def read_markdown_file(markdown_file):
 
 # STREAMLIT PAGE
 
-# define constants
+# define constants for reference function (average of multiple sensors)
 beta_0 = 0.626886771
 beta_1 = -1.846669496
 intercept = 1.603399326
